@@ -26,13 +26,13 @@ extern "C" {
 }
 
 //AWS IOT config, change these:
-char wifi_ssid[]       = "NOKIA-IOT";
-char wifi_password[]   = "R#AAVP1N}W]J3b5";
+char wifi_ssid[]       = "xxxx";
+char wifi_password[]   = "xxxx";
 //char wifi_ssid[]       = "Rein8";
 //char wifi_password[]   = "timothyseth";
 char aws_endpoint[]    = "a132vkks0odbx1-ats.iot.us-east-2.amazonaws.com";
-char aws_key[]         = "AKIAIGRC2VYSA5TBZPNQ";
-char aws_secret[]      = "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";
+char aws_key[]         = "xxxx";
+char aws_secret[]      = "xxxx";
 char aws_region[]      = "us-east-2";
 const char* aws_topic  = "COLevel";
 int port = 443;
