@@ -11,9 +11,9 @@ Materials used:
 
 Sensing Procedure:
 
-The person will breathe on the opening of the apparatus
+The person presses the Start button in the web app
 
-When the previous CO reading exceeds 40 units, sensing will begin (This usually happens immediately upon breathing onto the apparatus)
+The person will breathe on the opening of the apparatus
 
 There will be a 10s delay for stabilized reading
 
